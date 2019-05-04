@@ -1,0 +1,3 @@
+//windows laptop battery information check
+
+powercfg -energy -output c:\energy-report.html
